@@ -1,0 +1,22 @@
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.exe.config
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.pdb
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.Form1.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.HelpForm.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.Properties.Resources.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.pdb
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.exe.config
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.exe
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Release\Code_Analysis.pdb
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.Form1.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.HelpForm.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.Properties.Resources.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.exe
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Release\Code_Analysis.pdb

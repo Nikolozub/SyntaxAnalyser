@@ -1,0 +1,75 @@
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\samsonov.2017\source\repos\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+C:\Users\user\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\sams\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+E:\Компиляторы\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\theory_of_compile\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\Desktop\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\bin\Debug\Code_Analysis.pdb
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csprojAssemblyReference.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Form1.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.HelpForm.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.Properties.Resources.resources
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.GenerateResource.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.exe
+C:\Users\ПК-82581881\OneDrive\Рабочий стол\Курсовая\Code_Analysis\Code_Analysis\obj\Debug\Code_Analysis.pdb
